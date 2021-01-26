@@ -4,6 +4,8 @@ public class FeatureBTest {
 
         System.out.println("first commit");
 
+        System.out.println("more commits");
+
 
 
     }
